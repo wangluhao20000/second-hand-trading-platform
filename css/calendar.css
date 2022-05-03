@@ -1,0 +1,87 @@
+TABLE.calendar {
+	BORDER-RIGHT: #888888 1px solid; BORDER-TOP: #cccccc 1px solid; FONT-SIZE: 12px; BORDER-LEFT: #cccccc 1px solid; WIDTH: 200px; BORDER-BOTTOM: #888888 1px solid; FONT-FAMILY: Tahoma
+}
+TD.lastMonth {
+	COLOR: #bbbbbb
+}
+TD.nextMonth {
+	COLOR: #bbbbbb
+}
+TD.normal {
+	COLOR: black
+}
+TD.smallFont {
+	FONT-SIZE: 10px
+}
+TD.tdCurDate {
+	BACKGROUND: url(../images/calendar/bgCurDate.gif) no-repeat center center; COLOR: white
+}
+TD.tdToday {
+	BACKGROUND: url(../images/calendar/bgToday1.gif) no-repeat center center; COLOR: black
+}
+TD.tdTodayCurDate {
+	BACKGROUND: url(../images/calendar/bgToday2.gif) no-repeat center center; COLOR: white
+}
+TD.tdHoliday {
+	COLOR: darkred
+}
+TD.Day_MouseOver {
+	COLOR: red; BACKGROUND-COLOR: #cecece
+}
+TD.Month_MouseOver {
+	COLOR: red; BACKGROUND-COLOR: #444444
+}
+TD.Month_MouseOut {
+	COLOR: red; BACKGROUND-COLOR: white
+}
+.dropItem {
+	BACKGROUND-COLOR: gray
+}
+.DPFrame {
+	BORDER-RIGHT: #848284 2px inset; PADDING-RIGHT: 0px; BORDER-TOP: #848284 2px inset; PADDING-LEFT: 0px; FONT-WEIGHT: normal; FONT-SIZE: 9pt; PADDING-BOTTOM: 0px; MARGIN: 0px; OVERFLOW: hidden; BORDER-LEFT: #848284 2px inset; LINE-HEIGHT: 0px; PADDING-TOP: 0px; BORDER-BOTTOM: #848284 2px inset; FONT-STYLE: normal; POSITION: relative; TOP: -1px; HEIGHT: 25px; BACKGROUND-COLOR: transparent; FONT-VARIANT: normal
+}
+.DPSpan {
+	FONT-WEIGHT: bold; POSITION: relative; TOP: -8px
+}
+.DPimg {
+	LEFT: 0px; OVERFLOW: hidden; CURSOR: hand; BORDER-TOP-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-LEFT-STYLE: none; POSITION: relative; BORDER-BOTTOM-STYLE: none
+}
+.DPTitle {
+	FONT-WEIGHT: normal; FONT-SIZE: 11pt; BORDER-LEFT-COLOR: #ffff00; BORDER-BOTTOM-COLOR: #ffff00; COLOR: black; BORDER-TOP-STYLE: double; BORDER-TOP-COLOR: #ffff00; LINE-HEIGHT: normal; FONT-STYLE: normal; BORDER-RIGHT-STYLE: double; BORDER-LEFT-STYLE: double; BACKGROUND-COLOR: ghostwhite; TEXT-ALIGN: center; FONT-VARIANT: normal; BORDER-RIGHT-COLOR: #ffff00; BORDER-BOTTOM-STYLE: double
+}
+.DPWeekName {
+	FONT-WEIGHT: normal; FONT-SIZE: 9pt; COLOR: white; LINE-HEIGHT: normal; BORDER-BOTTOM: black 1px solid; FONT-STYLE: normal; BACKGROUND-COLOR: #929100; TEXT-ALIGN: center; FONT-VARIANT: normal
+}
+.DPWeekend {
+	COLOR: red
+}
+.DPCellOther {
+	BORDER-RIGHT: mintcream 1px solid; BORDER-TOP: mintcream 1px solid; FONT-WEIGHT: normal; FONT-SIZE: 10pt; BORDER-LEFT: mintcream 1px solid; COLOR: #9db9de; LINE-HEIGHT: normal; BORDER-BOTTOM: mintcream 1px solid; FONT-STYLE: normal; BACKGROUND-COLOR: #e0ded1; TEXT-ALIGN: center; FONT-VARIANT: normal
+}
+.DPCell {
+	BORDER-RIGHT: ghostwhite 1px solid; PADDING-RIGHT: 6px; BORDER-TOP: ghostwhite 1px solid; PADDING-LEFT: 6px; FONT-WEIGHT: normal; FONT-SIZE: 10pt; PADDING-BOTTOM: 1px; BORDER-LEFT: ghostwhite 1px solid; CURSOR: hand; COLOR: #000000; LINE-HEIGHT: normal; PADDING-TOP: 1px; BORDER-BOTTOM: ghostwhite 1px solid; FONT-STYLE: normal; BACKGROUND-COLOR: #d4dfc6; TEXT-ALIGN: center; FONT-VARIANT: normal
+}
+.DPCellSelect {
+	BORDER-RIGHT: #ccccff 1px double; BORDER-TOP: #ccccff 1px double; FONT-WEIGHT: bold; FONT-SIZE: 10pt; BORDER-LEFT: #ccccff 1px double; CURSOR: hand; COLOR: #000000; LINE-HEIGHT: normal; BORDER-BOTTOM: #ccccff 1px double; FONT-STYLE: normal; BACKGROUND-COLOR: #ccffd9; TEXT-ALIGN: center; FONT-VARIANT: normal
+}
+.DPYear {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 9pt; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; WIDTH: 32px; COLOR: black; LINE-HEIGHT: normal; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; FONT-STYLE: normal; POSITION: relative; TOP: -6px; HEIGHT: 16px; BACKGROUND-COLOR: transparent; TEXT-ALIGN: right; FONT-VARIANT: normal
+}
+.DPYearDes {
+	MARGIN: 0px; WIDTH: 1px; HEIGHT: 16px; BACKGROUND-COLOR: transparent
+}
+.DPMonth {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 9pt; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; WIDTH: 16px; COLOR: black; LINE-HEIGHT: normal; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; FONT-STYLE: normal; POSITION: relative; TOP: -6px; HEIGHT: 16px; BACKGROUND-COLOR: transparent; TEXT-ALIGN: right; FONT-VARIANT: normal
+}
+.DPMonthDes {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 1px; PADDING-TOP: 0px; HEIGHT: 16px; BACKGROUND-COLOR: transparent
+}
+.DPDay {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: 9pt; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: 0px; WIDTH: 16px; COLOR: black; LINE-HEIGHT: normal; PADDING-TOP: 0px; BORDER-BOTTOM: 0px; FONT-STYLE: normal; POSITION: relative; TOP: -6px; HEIGHT: 16px; BACKGROUND-COLOR: transparent; TEXT-ALIGN: right; FONT-VARIANT: normal
+}
+.DPDayDes {
+	WIDTH: 1px; HEIGHT: 16px; BACKGROUND-COLOR: transparent
+}
+.DPSep {
+	WIDTH: 8px; HEIGHT: 16px; BACKGROUND-COLOR: transparent
+}

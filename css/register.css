@@ -1,0 +1,103 @@
+@CHARSET "UTF-8";
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 12px; PADDING-BOTTOM: 0px; MARGIN: 10px 0px 0px; PADDING-TOP: 0px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #ffffff; TEXT-DECORATION: none
+}
+.font1 {
+	FONT-SIZE: 12px; COLOR: #ff0000; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.font1:hover {
+	FONT-SIZE: 12px; COLOR: #ff9900; FONT-FAMILY: Verdana; TEXT-DECORATION: none
+}
+.box1 {
+	BORDER-RIGHT: #cccccc 1px solid; BORDER-TOP: #cccccc 1px solid; BORDER-LEFT: #cccccc 1px solid; BORDER-BOTTOM: #cccccc 1px solid; BACKGROUND-COLOR: #f2f2f2
+}
+.title1 {
+	COLOR: #ff6600; TEXT-INDENT: 24px; LINE-HEIGHT: 140%; TEXT-ALIGN: left
+}
+.paihang_text {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+.paihang_money {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+.btn {
+	BORDER-RIGHT: medium none; BORDER-TOP: medium none; BACKGROUND-IMAGE: url(../images/btn_bg.jpg); BORDER-LEFT: medium none; WIDTH: 52px; BORDER-BOTTOM: medium none; HEIGHT: 22px; BACKGROUND-COLOR: #ffffff
+}
+.input {
+	BORDER-RIGHT: #999999 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #999999 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #999999 1px solid; WIDTH: 130px; COLOR: #55b4e2; PADDING-TOP: 0px; BORDER-BOTTOM: #999999 1px solid; HEIGHT: 16px
+}
+.input_text {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+.input2 {
+	BORDER-RIGHT: #ffffff 1px solid; BORDER-TOP: #ffffff 1px solid; BORDER-LEFT: #ffffff 1px solid; WIDTH: 100px; COLOR: #ffffff; BORDER-BOTTOM: #ffffff 1px solid; HEIGHT: 16px; BACKGROUND-COLOR: #56b4e3; TEXT-DECORATION: none
+}
+.black {
+	COLOR: #000000
+}
+.box_border {
+	BORDER-RIGHT: #999999 1px solid; BORDER-TOP: #999999 1px solid; BORDER-LEFT: #999999 1px solid; BORDER-BOTTOM: #999999 1px solid
+}
+.b {
+	FONT-WEIGHT: bold; COLOR: #000000; TEXT-DECORATION: none
+}
+.white_link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A.white_link:hover {
+	COLOR: #ffffff; TEXT-DECORATION: underline
+}
+.blank_link {
+	COLOR: #666666; TEXT-DECORATION: none
+}
+A.blank_link:hover {
+	COLOR: #ff6600; TEXT-DECORATION: none
+}
+.blue_link {
+	COLOR: #1f79a5; TEXT-DECORATION: none
+}
+A.blue_link:hover {
+	COLOR: #ff9900; TEXT-DECORATION: none
+}
+.hot_link {
+	COLOR: #ff9900; TEXT-DECORATION: none
+}
+A.hot_link:hover {
+	COLOR: #0066ff; TEXT-DECORATION: none
+}
+.white_border_body {
+	SCROLLBAR-FACE-COLOR: #ffffff; FONT-SIZE: 12px; SCROLLBAR-HIGHLIGHT-COLOR: #eeeeee; SCROLLBAR-SHADOW-COLOR: #ffffff; SCROLLBAR-3DLIGHT-COLOR: #eeeeee; SCROLLBAR-ARROW-COLOR: #999999; SCROLLBAR-TRACK-COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; SCROLLBAR-DARKSHADOW-COLOR: #eeeeee
+}
+.text {
+	FONT-SIZE: 12px; TEXT-INDENT: 24px; LINE-HEIGHT: 140%
+}
+.big_textbox {
+	BORDER-RIGHT: #000000 1px solid; BORDER-TOP: #000000 1px solid; VERTICAL-ALIGN: bottom; BORDER-LEFT: #000000 1px solid; WIDTH: 150px; LINE-HEIGHT: 18px; BORDER-BOTTOM: #000000 1px solid; HEIGHT: 25px
+}
+TD {
+	FONT-SIZE: 12px; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A {
+	COLOR: #000000; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #0066ff; TEXT-DECORATION: none
+}
+.input_modify {
+	BORDER-RIGHT: #0099ff 1px solid; BORDER-TOP: #0099ff 1px solid; BORDER-LEFT: #0099ff 1px solid; BORDER-BOTTOM: #0099ff 1px solid
+}
+.red_border {
+	BORDER-RIGHT: #fe9900 1px solid; BORDER-TOP: #fe9900 1px solid; BORDER-LEFT: #fe9900 1px solid; BORDER-BOTTOM: #fe9900 1px solid
+}
+.image_border {
+	BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 2px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 2px; PADDING-BOTTOM: 2px; MARGIN: 5px; BORDER-LEFT: #000000 1px solid; PADDING-TOP: 2px; BORDER-BOTTOM: #000000 1px solid
+}
+.f12 {
+	FONT-SIZE: 12px
+}
+.f14 {
+	FONT-SIZE: 14px
+}
+.style1 {
+	COLOR: #ffffff
+}
